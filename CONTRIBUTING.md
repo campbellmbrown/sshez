@@ -1,8 +1,8 @@
-# Contributing to ssht
+# Contributing to sshez
 
 ## Prerequisites
 
-ssht is written in Rust. You'll need to install the [Rust toolchain](https://www.rust-lang.org/tools/install) to build and contribute to ssht.
+sshez is written in Rust. You'll need to install the [Rust toolchain](https://www.rust-lang.org/tools/install) to build and contribute to sshez.
 
 ### Code Quality
 
